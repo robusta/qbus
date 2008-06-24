@@ -13,4 +13,18 @@ http://tortoisesvn.tigris.org/
 
 = Gebruik =
 
-moet nog worden aangevuld...
+1. Installeer de TortoiseSVN client en herstart de PC
+
+2. Maak een map ergens op je schijf aan
+
+3. Rechtsklik op deze map en kies voor "SVN Checkout...3
+
+4. Vul als repository url https://qbus.googlecode.com/svn/trunk/ in en druk op OK
+
+5. Bij het vragen naar een login + wachtwoord vul je je Google account in (vb. goens.roel) en het repository wachtwoord, NIET je google account wachtwoord. Het repository wachtwoord kun je bij de Project Owners verkrijgen (voorlopig Roel en Robbie)
+
+6. TortoiseSVN haalt nu de bestanden van de server en zet deze lokaal in de map
+
+Hierna kun je de files gaan bewerken naar believen en je wijzigingen terug op de server plaatsen. Dit door terug rechts te klikken op de map en "SVN Commit..." te kiezen. De client zal detecteren welke files gewijzigd zijn en deze voorstellen. Bovenaan kan je commentaar schrijven over wat je gewijzigd hebt en daarna kun je alles committen. Bij conflicten (mensen die voor jou reeds wijzigingen hebben weggeschreven), zul je manueel je wijzigingen moeten gaan "mergen" met die van de vorige gebruiker.
+
+Om je lokale folder te updaten met de laatste wijzigingen op de server kies je voor het command "SVN Update..."
