@@ -17,7 +17,7 @@ http://tortoisesvn.tigris.org/
 
 2. Maak een map ergens op je schijf aan
 
-3. Rechtsklik op deze map en kies voor "SVN Checkout...3
+3. Rechtsklik op deze map en kies voor "SVN Checkout..."
 
 4. Vul als repository url https://qbus.googlecode.com/svn/trunk/ in en druk op OK
 
