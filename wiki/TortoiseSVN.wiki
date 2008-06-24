@@ -1,4 +1,4 @@
-#summary Gebruike van TortoiseSVN als SVN client
+#summary Gebruik van TortoiseSVN als SVN client
 #labels tortoisesvn
 
 = Introductie =
