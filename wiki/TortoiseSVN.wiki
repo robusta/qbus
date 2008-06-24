@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary Gebruike van TortoiseSVN als SVN client
 #labels tortoisesvn
 
 = Introductie =
