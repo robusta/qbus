@@ -1,0 +1,16 @@
+#summary One-sentence summary of this page.
+#labels tortoisesvn
+
+= Introductie =
+
+Om onze code te delen met andere gebruikers, gaan we gebruik maken van een versiebeheersysteem: SubVersion. Google Code maakt hiervan gebruik. Dit systeem zorgt ervoor dat er nooit wijzigingen verloren kunnen gaan of wijzigingen in broncode overschreven kunnen worden door iemand.
+
+
+= Details =
+
+Om TortoiseSVN te installeren download je de laatste versie van de site:
+http://tortoisesvn.tigris.org/
+
+= Gebruik =
+
+moet nog worden aangevuld...
