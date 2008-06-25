@@ -1,0 +1,19 @@
+D:\Documents\Visual Studio 2008\Projects\Home\Browser client\bin\Debug\Browser client.exe.manifest
+D:\Documents\Visual Studio 2008\Projects\Home\Browser client\bin\Debug\Browser client.xbap
+D:\Documents\Visual Studio 2008\Projects\Home\Browser client\bin\Debug\Browser client.exe
+D:\Documents\Visual Studio 2008\Projects\Home\Browser client\bin\Debug\Browser client.pdb
+D:\Documents\Visual Studio 2008\Projects\Home\Browser client\bin\Debug\Browser client.xml
+D:\Documents\Visual Studio 2008\Projects\Home\Browser client\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2008\Projects\Home\Browser client\obj\Debug\Page1.baml
+D:\Documents\Visual Studio 2008\Projects\Home\Browser client\obj\Debug\Page1.g.vb
+D:\Documents\Visual Studio 2008\Projects\Home\Browser client\obj\Debug\Application.g.vb
+D:\Documents\Visual Studio 2008\Projects\Home\Browser client\obj\Debug\Browser client_MarkupCompile.cache
+D:\Documents\Visual Studio 2008\Projects\Home\Browser client\obj\Debug\Browser client.g.resources
+D:\Documents\Visual Studio 2008\Projects\Home\Browser client\obj\Debug\Browser_client.Resources.resources
+D:\Documents\Visual Studio 2008\Projects\Home\Browser client\obj\Debug\Browser client.vbproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2008\Projects\Home\Browser client\obj\Debug\Browser client.TrustInfo.xml
+D:\Documents\Visual Studio 2008\Projects\Home\Browser client\obj\Debug\Browser client.exe.manifest
+D:\Documents\Visual Studio 2008\Projects\Home\Browser client\obj\Debug\Browser client.xbap
+D:\Documents\Visual Studio 2008\Projects\Home\Browser client\obj\Debug\Browser client.exe
+D:\Documents\Visual Studio 2008\Projects\Home\Browser client\obj\Debug\Browser client.xml
+D:\Documents\Visual Studio 2008\Projects\Home\Browser client\obj\Debug\Browser client.pdb

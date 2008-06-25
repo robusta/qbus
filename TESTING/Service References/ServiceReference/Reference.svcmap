@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="c4284b5a-ea25-4e6c-9c5f-ebbe31047979" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:51486/Read.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="Read.xsd" MetadataType="Schema" ID="1850d227-ec52-46fd-a431-37d495280995" SourceId="1" SourceUrl="http://localhost:51486/Read.svc?xsd=xsd2" />
+    <MetadataFile FileName="Read1.xsd" MetadataType="Schema" ID="c7ebec80-7e68-4393-8d14-74b6642efc93" SourceId="1" SourceUrl="http://localhost:51486/Read.svc?xsd=xsd1" />
+    <MetadataFile FileName="Read.disco" MetadataType="Disco" ID="e2ea42e7-93f3-4cb4-80a5-8ae98f694d15" SourceId="1" SourceUrl="http://localhost:51486/Read.svc?disco" />
+    <MetadataFile FileName="Read2.xsd" MetadataType="Schema" ID="40b0096f-d4ec-4361-a4ba-14401ae2eddd" SourceId="1" SourceUrl="http://localhost:51486/Read.svc?xsd=xsd0" />
+    <MetadataFile FileName="Read.wsdl" MetadataType="Wsdl" ID="996c0e3e-158f-4cec-b1cd-373b0ea0a15b" SourceId="1" SourceUrl="http://localhost:51486/Read.svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

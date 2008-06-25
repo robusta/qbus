@@ -1,0 +1,31 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Browserclient
+</name>
+</assembly>
+<members>
+<member name="M:Browser_client.Page1.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:Browser_client.Page1">
+	<summary>
+Page1
+</summary>
+</member><member name="M:Browser_client.Application.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="M:Browser_client.Application.Main">
+	<summary>
+Application Entry Point.
+</summary>
+</member><member name="T:Browser_client.Application">
+	<summary>
+Application
+</summary>
+</member>
+</members>
+</doc>

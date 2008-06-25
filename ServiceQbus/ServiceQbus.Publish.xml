@@ -1,0 +1,18 @@
+<publishData>
+  <publishTarget publishUrl="http://localhost/ServiceQbus/">
+    <file relUrl="Read.svc" publishTime="02/18/2008 20:41:26" />
+    <file relUrl="bin/ServiceQbus.dll" publishTime="02/26/2008 21:41:01" />
+    <file relUrl="Web.config" publishTime="02/18/2008 20:41:28" />
+    <file relUrl="bin/ServiceQbus.xml" publishTime="02/26/2008 21:41:01" />
+    <file relUrl="Service1.svc" publishTime="02/16/2008 11:46:28" />
+    <file relUrl="bin/ServiceQbus.pdb" publishTime="02/26/2008 21:41:01" />
+  </publishTarget>
+  <publishTarget publishUrl="\\SERVER\System\inetpub\wwwroot\TEST\">
+    <file relUrl="Read.svc" publishTime="02/18/2008 20:41:26" />
+    <file relUrl="bin/ServiceQbus.dll" publishTime="02/25/2008 19:56:49" />
+    <file relUrl="Web.config" publishTime="02/18/2008 20:41:28" />
+    <file relUrl="bin/ServiceQbus.xml" publishTime="02/25/2008 19:56:49" />
+    <file relUrl="Service1.svc" publishTime="02/16/2008 11:46:28" />
+    <file relUrl="bin/ServiceQbus.pdb" publishTime="02/25/2008 19:56:49" />
+  </publishTarget>
+</publishData>

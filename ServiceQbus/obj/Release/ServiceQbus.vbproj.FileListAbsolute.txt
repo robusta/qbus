@@ -1,0 +1,9 @@
+D:\Documents\Visual Studio 2008\Projects\Home\ServiceQbus\obj\Release\ResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2008\Projects\Home\ServiceQbus\obj\Release\ServiceQbus.Resources.resources
+D:\Documents\Visual Studio 2008\Projects\Home\ServiceQbus\obj\Release\ServiceQbus.vbproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2008\Projects\Home\ServiceQbus\bin\ServiceQbus.dll
+D:\Documents\Visual Studio 2008\Projects\Home\ServiceQbus\bin\ServiceQbus.pdb
+D:\Documents\Visual Studio 2008\Projects\Home\ServiceQbus\bin\ServiceQbus.xml
+D:\Documents\Visual Studio 2008\Projects\Home\ServiceQbus\obj\Release\ServiceQbus.dll
+D:\Documents\Visual Studio 2008\Projects\Home\ServiceQbus\obj\Release\ServiceQbus.xml
+D:\Documents\Visual Studio 2008\Projects\Home\ServiceQbus\obj\Release\ServiceQbus.pdb
