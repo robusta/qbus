@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary Hoe OpenSource software aanpakken
 
 = Introduction =
 Een PDF die beschrijft hoe we best OSS (OpenSource Software) maken en aanpakken
