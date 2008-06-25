@@ -1,0 +1,14 @@
+D:\Documents\Visual Studio 2008\Projects\Home\Standalone client\bin\Standalone client.exe
+D:\Documents\Visual Studio 2008\Projects\Home\Standalone client\bin\Standalone client.pdb
+D:\Documents\Visual Studio 2008\Projects\Home\Standalone client\bin\Standalone client.xml
+D:\Documents\Visual Studio 2008\Projects\Home\Standalone client\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2008\Projects\Home\Standalone client\obj\Debug\Window1.baml
+D:\Documents\Visual Studio 2008\Projects\Home\Standalone client\obj\Debug\Window1.g.vb
+D:\Documents\Visual Studio 2008\Projects\Home\Standalone client\obj\Debug\Application.g.vb
+D:\Documents\Visual Studio 2008\Projects\Home\Standalone client\obj\Debug\Standalone client_MarkupCompile.cache
+D:\Documents\Visual Studio 2008\Projects\Home\Standalone client\obj\Debug\Standalone client.g.resources
+D:\Documents\Visual Studio 2008\Projects\Home\Standalone client\obj\Debug\Standalone_client.Resources.resources
+D:\Documents\Visual Studio 2008\Projects\Home\Standalone client\obj\Debug\Standalone client.vbproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2008\Projects\Home\Standalone client\obj\Debug\Standalone client.exe
+D:\Documents\Visual Studio 2008\Projects\Home\Standalone client\obj\Debug\Standalone client.xml
+D:\Documents\Visual Studio 2008\Projects\Home\Standalone client\obj\Debug\Standalone client.pdb
