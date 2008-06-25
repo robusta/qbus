@@ -28,3 +28,5 @@ http://tortoisesvn.tigris.org/
 Hierna kun je de files gaan bewerken naar believen en je wijzigingen terug op de server plaatsen. Dit door terug rechts te klikken op de map en "SVN Commit..." te kiezen. De client zal detecteren welke files gewijzigd zijn en deze voorstellen. Bovenaan kan je commentaar schrijven over wat je gewijzigd hebt en daarna kun je alles committen. Bij conflicten (mensen die voor jou reeds wijzigingen hebben weggeschreven), zul je manueel je wijzigingen moeten gaan "mergen" met die van de vorige gebruiker.
 
 Om je lokale folder te updaten met de laatste wijzigingen op de server kies je voor het command "SVN Update..."
+
+*Zorg er voor dat je bij het comitten altijd een omschrijving meegeeft!*
