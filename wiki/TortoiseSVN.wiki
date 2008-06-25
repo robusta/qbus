@@ -21,7 +21,7 @@ http://tortoisesvn.tigris.org/
 
 4. Vul als repository url https://qbus.googlecode.com/svn/trunk/ in en druk op OK
 
-5. Bij het vragen naar een login + wachtwoord vul je je Google account in (vb. goens.roel) en het repository wachtwoord, NIET je google account wachtwoord. Het repository wachtwoord kun je bij de Project Owners verkrijgen (voorlopig Roel en Robbie)
+5. Bij het vragen naar een login + wachtwoord vul je je Google account in (vb. goens.roel) en het repository wachtwoord, NIET je google account wachtwoord. Het repository wachtwoord kun je vinden door op Settings te klikken (rechtsboven).
 
 6. TortoiseSVN haalt nu de bestanden van de server en zet deze lokaal in de map
 
