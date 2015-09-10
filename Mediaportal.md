@@ -1,0 +1,3 @@
+Ik heb al eens snel gekeken naar die mediaportal (www.team-mediaportal.com) en ik moet zeggen dat het er niet slecht uitziet hoor...
+
+Wat denken jullie om daarop verder te werken en de visualisatie van onze functies daarin verder te zetten?
